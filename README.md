@@ -1,2 +1,16 @@
 # PeopleManager
 Create/Update person details through a windows CLI application
+
+### This program is created to create/update person details.
+### Created in C# using .NET Framework v4.0.30319
+
+Instructions to compile:
+1. Download and extract project.zip 
+2. Navigate to src folder
+3. Run 'setup.bat' from CommandPrompt or just double click the file.
+4. Folder named 'bin' should appear in the Project directory (same directory where src is present)
+5. Navigate to bin folder
+6. Run Program.exe
+
+Instructions about datafiles:
+1. Once the application is started the data files('data.xml' and 'config.xml') should appear in the bin folder
